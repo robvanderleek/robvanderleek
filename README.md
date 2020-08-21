@@ -1,6 +1,10 @@
+<html>
+<body>
 <script>
   document.writeln('this is a test');
 </script>
+</body>
+</html>
 
 <!--
 **robvanderleek/robvanderleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
