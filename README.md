@@ -1,7 +1,6 @@
 <html>
 <body>
-  <h1>Hello world</h1>
-  <iframe src="https://glitch.com/embed/#!/embed/robvanderleek-plasma?path=README.md&previewSize=0"/>
+  <h1>Hello Internet 👋</h1>
 </body>
 </html>
 
