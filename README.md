@@ -1,8 +1,4 @@
-<html>
-<body>
-  <h1>Hello Internet 👋</h1>
-</body>
-</html>
+![Welcome](welcome.gif)
 
 <!--
 **robvanderleek/robvanderleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
