@@ -1,4 +1,4 @@
-{"version": 2, "width": 80, "height": 25, "timestamp": 1598186474, "env": {"SHELL": "/bin/zsh", "TERM": "xterm-256color"}}
+{"version": 2, "width": 80, "height": 15, "timestamp": 1598186474, "env": {"SHELL": "/bin/zsh", "TERM": "xterm-256color"}}
 [0.365259, "o", "\u001b]2;\u0007"]
 [0.366103, "o", "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[32mrob\u001b[39m@\u001b[36mmahler\u001b[39m:~/welcome]$ \u001b[K\u001b[?2004h"]
 [1.925989, "o", "c"]
