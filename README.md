@@ -1,4 +1,4 @@
-![Welcome](https://github.com/robvanderleek/robvanderleek/blob/master/welcome.gif)
+![Welcome](https://github.com/robvanderleek/robvanderleek/blob/main/welcome.gif)
 
 <!--
 **robvanderleek/robvanderleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
